@@ -1,6 +1,6 @@
 ### <h1>Olá! Eu sou Sara Viana👋</h1>
 
-- 🔭 Estudando para ser um programador Full Stack JAVA.
+- 🔭 Desenvolvedora Full Stack.
 - 🌱 Atualmente estou estudando Desenvovlvimento de sistema com JAVA.
 - ⛹🏽‍♀️🏀🥋  Apaixonada por Basquete e jiu jitsu.
 - ⚡ Apaixonada por tecnologia e por entender como as coisas funcionam.
