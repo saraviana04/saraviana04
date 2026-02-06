@@ -1,9 +1,40 @@
 ### <h1>Olá! Eu sou Sara Viana👋</h1>
 
 - 🔭 Desenvolvedora Full Stack.
-- 🌱 Atualmente estou estudando Desenvovlvimento de sistema com JAVA.
 - ⛹🏽‍♀️🏀🥋  Apaixonada por Basquete e jiu jitsu.
 - ⚡ Apaixonada por tecnologia e por entender como as coisas funcionam.
+
+🇧🇷 Sobre (PT-BR)
+
+☕ Transformo café em código — e problemas complexos em soluções simples e sustentáveis.
+
+Sou Desenvolvedor Full Stack no Tribunal de Justiça do Estado do Pará, atuando na construção e evolução de sistemas corporativos de missão crítica, com foco em arquitetura limpa, qualidade de código e alta confiabilidade.
+
+💻 Backend
+Projeto e evoluo APIs REST com Java (8–21) e Spring Boot, aplicando Clean Architecture, DDD, SOLID e TDD para garantir código desacoplado, testável e fácil de manter.
+
+🎨 Frontend
+Desenvolvo SPAs modernas com React, Vue e TypeScript, priorizando performance, experiência do usuário e cobertura de testes.
+
+🧪 Qualidade & Engenharia
+• Testes unitários, integração e arquitetura (JUnit, Mockito, H2, ArchUnit)
+• Code review e padronização técnica
+• Forte cultura de testes e refatoração contínua
+
+🏗️ Arquitetura & Sistemas
+• Monólitos modulares e microsserviços
+• Separação de camadas (Domínio, Aplicação, Infraestrutura)
+• Integração com múltiplos bancos (PostgreSQL e Oracle)
+• Autenticação segura com Spring Security + JWT
+
+🚀 DevOps & Cloud
+• CI/CD, Docker, GitLab
+• Deploys containerizados em Kubernetes/OpenShift
+• Automação de builds e ambientes
+
+📚 Aprendizado contínuo em novas tecnologias (Quarkus, microsserviços e arquitetura moderna).
+
+🎯 Curto ambientes desafiadores
 
 <h2>Skills</h2>
   
